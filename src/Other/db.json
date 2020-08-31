@@ -1,0 +1,72 @@
+{
+    "resume": {
+        "hv": {
+            "title": "Học vấn",
+            "time": "2016- nay",
+            "location": "TNUT",
+            "content": "Chuyên ngành : Kĩ thuật máy tính."
+        },
+        "skill": {
+            "title": "Kĩ năng",
+            "content": [
+                "HTML & CSS  ",
+                "Javascript",
+                "jQuery & Bootstrap",
+                "TypeScript | ES6",
+                "ReactJS"
+            ]
+        },
+        "project": [
+            {
+                "title": "Web chat online",
+                "time": "2020",
+                "location": "Cá nhân",
+                "content": [
+                    "Công nghệ : HTML, CSS, JavaScript, Jquery, SocketIO, NodeJS, ExpressJs, MongoDb, Heroku.",
+                    "Mô tả : Ứng dụng chat online qua mạng. Sử dụng socketIO và NodeJs. Thức hiện các chức năng tạo tài khoản, tìm kiếm thêm bạn bè (user khác), nhắn tin ,gửi tin đính kèm, gọi videoCall"
+                ],
+                "sourceCode": "https://github.com/cong17/",
+                "linkProduct": "https://dl-tool.herokuapp.com/"
+            },
+            {
+                "title": "Website giới thiệu về bản thân",
+                "time": "2020",
+                "location": "Cá nhân",
+                "content": [
+                    "Công nghệ : ReactJs, ReDux, FireBase.",
+                    "Mô tả  là bản cv online giới thiệu bản thân, học vấn ,kĩ năng"
+                ],
+                "sourceCode": "https://github.com/cong17/",
+                "linkProduct": "https://dl-tool.herokuapp.com/"
+            },
+            {
+                "title": "Web tải video youtube, tiktok, douyin không watermark.",
+                "time": "2019",
+                "location": "Cá nhân",
+                "content": [
+                    "Công nghệ : Bootstrap,NodeJS, Heroku.",
+                    "Mô tả : Get video youtube, tải video tiktok, douyin không dính logo cá nhân"
+                ],
+                "sourceCode": "https://github.com/cong17/",
+                "linkProduct": "https://dl-tool.herokuapp.com/"
+            }
+        ]
+    },
+    "home": {
+        "fullName": "Vũ Mạnh Công",
+        "aboutMe": "Hi I'm Cong. As a fresh graduate, I want to work in a friendly environment, accumulate knowledge to improve my skills and become a full-time employee after the probationary period. Become a senior after 4-5 years of work experience.",
+        "age": 1998,
+        "address": "TP Thái Nguyên, Tỉnh Thái nguyên",
+        "email": "congkxtb98.mail@gmail.com",
+        "phone": "+084 35 825 4064",
+        "location": "Web development",
+        "linkGit": "https://github.com/cong17",
+        "linkfb": "https://www.facebook.com/congkxtb95",
+        "linkskype": "https://join.skype.com/invite/YnoGTwCRd16P",
+        "linkLinkind": "https://www.linkedin.com/in/c%C3%B4ng-v%C5%A9-ba7741176/",
+        "linkcv": "https://www.facebook.com/congkxtb95"
+    },
+    "gallery": {
+        "numberDisplay": 15
+    }
+}
